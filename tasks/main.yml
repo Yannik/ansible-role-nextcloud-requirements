@@ -1,0 +1,2 @@
+ - import_tasks: nextcloud-requirements.yml
+   tags: nextcloud-requirements

@@ -1,0 +1,3 @@
+- name: Install lib that nextcloud requires for svg support in php-imagemagick
+  apt:
+    name: libmagickcore-6.q16-6-extra
